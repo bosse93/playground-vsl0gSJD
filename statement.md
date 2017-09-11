@@ -10,6 +10,10 @@ print('Hello World!')
 print('Hello World B!')
 ```
 
+```python runnable
+print('Hello World B!')
+```
+
 # Advanced usage
 
 If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
