@@ -3,7 +3,9 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+print("Set a to 5")
+a = 3
+print('a:' + a)
 ```
 
 ```python runnable
